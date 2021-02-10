@@ -1,0 +1,88 @@
+
+.navbar
+{
+background-color: white;
+
+}
+.btn-outline
+{
+ color: purple;
+ border-color: purple;
+}
+.btn-outline:hover{
+  background-color: purple;
+  color: white;
+}
+.btn-width {
+  text-align: left;
+  width:100%;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+.btn{
+padding-left: 1rem;
+padding-right: 1rem;
+margin-right:2.5rem;
+margin-left: 1.5rem;
+}
+ .ask:hover
+{
+  color:purple;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom:  3px  ;
+  border-style: solid;
+  border-color: purple;
+}
+.god
+{
+  margin-left: 2rem;
+}
+.img-fluid {
+  width:100%;
+  height: 500px;
+}
+#title{
+  color:white;
+  position: absolute;
+  font-size: 35px;
+  font-weight: bolder;
+  left:30%;
+  top:60%;
+}
+.trial
+{
+  margin-right: 10%;
+}
+#idk{
+  margin-top: 10%;
+}
+#adjust
+{
+  width:50%;
+}
+#Branches{
+  margin-top:25%;
+  margin-left:-0.1%
+}
+.site-footer
+            {
+              border-style: solid;
+              border-left:0px;
+              border-right: 0px;
+              border-bottom: 0px;
+              border-color: #707070;
+            background-color:white;
+            padding:45px 0 20px;
+            font-size:15px;
+            line-height:24px;
+            color:#737373;
+            clear:both;
+            position: absolute;
+            bottom:0;
+            width:100%;
+            }
